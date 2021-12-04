@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Z6wYFF0JK96-4l6ySRlsh4yudbvWNmRP/view?usp=sharing](https://drive.google.com/file/d/1Z6wYFF0JK96-4l6ySRlsh4yudbvWNmRP/view?usp=sharing)
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
