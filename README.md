@@ -2,16 +2,15 @@
 
 
 <h1 align="center">Hi 👋, I'm Israt Jahan</h1>
-<h3 align="center">A passionate programmer from Bangladesh</h3>
+<h3 align="center">A passionate Mathematician and Programmer from Bangladesh</h3>
 <h4 align="center">I'm a student of Applied Mathematics</h4>
 
 - 🌱 I’m currently learning **PostgreSQL, Prisma, API gateway**
 
 - 👨‍💻 All of my projects are available at [https://israt-emu.netlify.app/](https://israt-emu.netlify.app/)
 
-- 📫 How to reach me **isratjahan.emu1998@gmail.com**
+- 📫 How to reach me **isratemu464611@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Z6wYFF0JK96-4l6ySRlsh4yudbvWNmRP/view?usp=sharing](https://drive.google.com/file/d/1Z6wYFF0JK96-4l6ySRlsh4yudbvWNmRP/view?usp=sharing)
 
 
 <p align="left">
